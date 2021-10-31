@@ -18,3 +18,9 @@ Please view the **"Merge Sort.pptx" file for detailed description and explanatio
     1)CUDA Zone | NVIDIA Developer (https://developer.nvidia.com/cuda-zone)   
     2)Udacity CS344: Intro to Parallel Programming (http://www.udacity.com/wiki/CS344)
     3)Bozidar, Darko & Dobravec, Tomaž. (2015). Comparison of parallel sorting algorithms. 
+
+
+# IMPORTANT NOTE:
+  #### * Please refer "DESCRIPTION-MERGE-SORT.pdf" document for DETAILED EXPLANATION of the Project
+  #### * "kernel.cu" is the MAIN SOURCE CODE FILE
+  #### * Open "Merge-Sort-Small-Size.sln" to open the entire project
