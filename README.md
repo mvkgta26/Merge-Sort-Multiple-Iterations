@@ -24,7 +24,7 @@ Please view the **"Merge Sort.pptx" file for detailed description and explanatio
         1) STEP-COMPLEXITY: O(1)
         2) WORK-COMPLEXITY: O(n)
     ## STAGE-2:
-        1) STEP-COMPLEXITY: O(log2n)
+        1) STEP-COMPLEXITY: O(log2(n))
         2) WORK-COMPLEXITY : O(n)
 
 # IMPORTANT NOTE:
